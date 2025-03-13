@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # 1. Load Dataset and EDA
 # -------------------------------
 
-data_path = 'C:/Users/ooduo/Downloads/ProgressofCOVID19vaccination.csv'
+data_path = 'C:/Users/Erxie/Downloads/ProgressofCOVID19vaccination.csv'
 df = pd.read_csv(data_path)
 
 print("Dataset Shape:", df.shape)
